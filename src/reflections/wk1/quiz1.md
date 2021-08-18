@@ -62,11 +62,11 @@ The font weight property.
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The flex CSS shorthand property sets how a flex item will grow or shrink to fit the space available in its flex container.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+ width , min-width , max-width , height , min-height, max-height and padding 
 ```
