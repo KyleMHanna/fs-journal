@@ -3,12 +3,12 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+let var const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+a piece of code which performs an operation and sometime returns a value. 
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
