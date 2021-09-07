@@ -15,3 +15,8 @@ Keep your code shallow.
 modularize the most important. Anyone is capable of making modules aka "libraries"
 
 Handle every single error from syntax to runtime to platform errors. 
+
+
+link for lab 
+
+Labor day = no lab 
