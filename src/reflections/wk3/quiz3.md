@@ -17,7 +17,7 @@ let property = 'name'
 <!-- enter you answer in the space below -->
 
 ```
-property(staff.name)
+let property=staff.name
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
