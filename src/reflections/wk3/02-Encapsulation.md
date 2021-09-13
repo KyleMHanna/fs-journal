@@ -1,6 +1,6 @@
 # Get organized and get secure #Encapsulation
 
-**What is the purpose of Encapsulation?**
+## What is the purpose of Encapsulation?
 
 The purpse of encapsulation is for security and organization. 
 
