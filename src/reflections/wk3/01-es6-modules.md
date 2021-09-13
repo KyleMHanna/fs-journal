@@ -14,6 +14,6 @@ Exporting default just allows to pull the defined funtion or object by their ori
 Using the module system allows you to quickly make set "blueprints" or data sets then allowing different levels of access to the code or values for the developer. You can quickly compare things from a data set or entries. There are a lot of benefits to the system based on what you are developing.  
 
 
-link for lab 
+## link for lab 
 
 https://kylemhanna.github.io/ZooKeeperClass/
