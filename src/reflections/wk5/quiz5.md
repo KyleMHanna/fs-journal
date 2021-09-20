@@ -45,7 +45,7 @@ a software that provides common services and capabilities to application outside
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-CI, CD
+request and response
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
