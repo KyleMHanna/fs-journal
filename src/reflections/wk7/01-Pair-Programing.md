@@ -1,6 +1,7 @@
 # Pair Programming
 
 **What is Pair Programming? What are the roles and how do they work?**
+
 Pair programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the "driver", the other, also actively involved in the programming task but focusing more on overall direction is the "navigator"; it is expected that the programmers swap roles every few minutes or so.
 
 Basically a driver and navigator
